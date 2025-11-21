@@ -1,4 +1,4 @@
-# Code to simulate a dataset similar to the paper and compare a knowledge-based Bayesian-style model
+# To simulate a dataset similar to the paper and compare a knowledge-based Bayesian-style model
 # with data-driven models.
 
 import numpy as np
